@@ -1,6 +1,6 @@
 //
 // Name: Johnson Dinh
-// SSID: 1857773
+// SSID: 
 // Assignment #: 2
 // Submission Date: 3/23/21
 //
