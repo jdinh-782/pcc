@@ -1,7 +1,3 @@
-//
-// Created by Dave Smith on 11/5/20.
-//
-
 #ifndef LIST_ANALYSIS_TIMER_H
 #define LIST_ANALYSIS_TIMER_H
 #include <chrono>
