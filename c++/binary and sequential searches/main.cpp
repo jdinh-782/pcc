@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int sequentialSearch ( int theArray[], int numberUsed, int numberToLookFor )
+int sequentialSearch (int theArray[], int numberUsed, int numberToLookFor)
 {
     for (int i = 0; i < numberUsed; i++)
     {
@@ -11,7 +11,6 @@ int sequentialSearch ( int theArray[], int numberUsed, int numberToLookFor )
         {
             return i;
         }
-
     }
     return -1;
 }
